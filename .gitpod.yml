@@ -1,6 +1,6 @@
 tasks:
   - init: ./mvnw clean package
-    command: ./mvnw spring-boot:start
+    command: ./mvnw spring-boot:run
 
 ports:
   - port: 8080
