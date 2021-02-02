@@ -33,6 +33,9 @@ build/
 ### VS Code ###
 .vscode/
 
+### Theia ###
+.theia/
+
 ### Vaadin ###
 package.json
 pnpm-lock.yaml
