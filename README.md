@@ -1,9 +1,5 @@
-Projet à forker dans votre Github.
+Projet Schotten Totten [GL]
 
-Il contient la configuration minimale vous permettant de commencer à travailler sur Schotten Totten.
+Groupe : Cédric Caruzzo
 
-Après avoir forker le projet modifier ce fichier en remplaçant `gronono` par votre pseudo github.
-
-Vous pouvez ouvrir le projet 
-* soit en le clonant en local et en l'important dans votre IDE
-* soit l'ouvrir avec GitPod via le lien [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gronono/Schotten-Totten-Starter).
+Le projet n'a pas la partie interface graphique de faite. Il y a ici toute la partie 'logique'/'métier' du code.
